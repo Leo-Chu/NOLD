@@ -41,10 +41,6 @@ Noise setting
     In each module, the channel is selected by setting "channel" as "AWGN", "ACGN", "RLN" in configuration. 
     Among three noise, the "ACGN" needs the correlated parameters to be set.
 
-The codes of this paper are partially based on the codes of  <An Iterative BP-CNN Architecture for
-Channel Decoding>(https://github.com/liangfei-info/Iterative-BP-CNN). 
-In our codes，the MS decoding module is derived form the SP decoding module of Liang's code. 
-And the Neural optimization Module is constructed based on the NN module in Liang's work.
-We appreciate <An Iterative BP-CNN Architecture for Channel Decoding>'s codes and thank the authors
- of <An Iterative BP-CNN Architecture for Channel Decoding>.
+The codes of this paper are partially based on the codes of provided in the paper <An Iterative BP-CNN Architecture for
+Channel Decoding>. In our codes，the MS decoding module is derived form the SP decoding module of Dr. Liang's code (https://github.com/liangfei-info/Iterative-BP-CNN). We appreciate the pioneer work provided by the authors of the state-of-art work: <An Iterative BP-CNN Architecture for Channel Decoding>. 
 
