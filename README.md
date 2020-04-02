@@ -26,11 +26,11 @@ GenTrainingData
     
 Floating MS
     This module is executed by setting "DecConfiure" in "Configuration.py".
-    The outputs of theis module is a BER result in "./results"
+    The output of this module is a BER result as shown in "./results"
     
 NeuralOptimization
     This module is executed by setting "TrainingConfiure" in "Configuration.py".  
-    The theis module are a series of files contain the training scaling and quantization parameters for each iteration  in "./parameters"
+    These modules are a series of files contain the training scaling and quantization parameters for each iteration  in "./parameters"
 
 Quantized MS
     This module is executed by setting "DecConfiure" in "Configuration.py".
