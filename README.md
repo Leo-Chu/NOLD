@@ -17,7 +17,7 @@ Other details are as follows:
 GenDecodingData:
     This module is executed by setting "GenConfiure" in "Configuration.py". 
     The outputs of this module are two files containing transmitting signals data and receiving signals data in "./Decoding".
-    These datas are used to execute the MS decoing algorithm.
+    These datas are used to execute the MS decoding algorithm.
 
 GenTrainingData
     This module is executed by setting "TrainingConfiure" in "Configuration.py".  
