@@ -1,7 +1,7 @@
 # NOLD
 Here we provide codes fo papers：
 
-Lei Chu,  H. He, Robert Qiu; NOLD: A Neural-Network Optimized Low-Resolution Decoder for LDPC Codes， To appear in IEEE Journal of Communications and Networks ;
+Lei Chu, H. He, Robert Qiu; NOLD: A Neural-Network Optimized Low-Resolution Decoder for LDPC Codes， To appear in IEEE Journal of Communications and Networks
 
 
 Code Specifications:
